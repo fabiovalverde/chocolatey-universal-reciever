@@ -9,11 +9,11 @@
  	<licenseUrl>https://www.dell.com/learn/us/en/uscorp1/terms-of-sale-consumer-license-agreements</licenseUrl> 
     <projectUrl>https://www.dell.com/support/home/pt-br/drivers/driversdetails?driverid=vmrgg</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>Darf - Cálculo e impressão</summary>
-    <description>Este pacote fornece o aplicativo do receptor universal da Dell e é compatível com os modelos das séries OptiPlex, Inspiron, XPS, Dell S&P, Tablet, Vostro, Precision, Latitude e periféricos que executam os seguintes sistemas operacionais: Windows 7, Windows 8.1 e Windows 10</description>
+    <summary>Mouse, teclado e dispositivos de entrada</summary>
+    <description>Este pacote fornece o aplicativo do receptor universal da Dell e é compatível com os modelos das séries OptiPlex, Inspiron, XPS, Dell SP, Tablet, Vostro, Precision, Latitude e periféricos que executam os seguintes sistemas operacionais: Windows 7, Windows 8.1 e Windows 10</description>
     <releaseNotes />
-    <tags>Darf Cálculo Impressão Programa Sicalc Receita Federal</tags>
-    <packageSourceUrl>https://github.com/fabiovalverde/chocolatey-sicalc/tree/master/sicalc/</packageSourceUrl>
+    <tags>Mouse Teclado Dispositivos</tags>
+    <packageSourceUrl>https://github.com/fabiovalverde/chocolatey-universal-reciever/tree/main/Universal-Reciever/</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
